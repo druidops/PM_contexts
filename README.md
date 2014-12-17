@@ -1,4 +1,4 @@
-PM_contexts
+PM_musicians
 ===========
 
-[policyMaker](https://github.com/druidops/policyMaker) contexts repository for classification
+[policyMaker](https://github.com/druidops/policyMaker) (contexts oriented) musicians repository for classification
